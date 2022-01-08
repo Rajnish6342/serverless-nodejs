@@ -4,6 +4,12 @@ This template demonstrates how to deploy a NodeJS function running on AWS Lambda
 
 ## Usage
 
+## Code with tkksharma
+
+```
+https://github.com/tkssharma/serverless-lambda-development
+```
+
 ### Deployment
 
 In order to deploy the example, you need to run the following command:
